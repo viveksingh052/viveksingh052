@@ -96,6 +96,7 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/vivek-singh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
-  <a href="mailto:viveksingh@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/viveksingh52/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
+  <a href="mailto:vivekvs2927@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" /></a>
+
 </p>
