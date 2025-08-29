@@ -22,18 +22,18 @@
 ## ⚙️ Tools & Technologies  
 
 <p align="center">
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" /><br>Excel &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/power-bi.png"/><br>Power BI &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/tableau-software.png"/><br>Tableau &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br>Python &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br>NumPy &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br>Pandas &nbsp;&nbsp;
-  <img src="https://matplotlib.org/stable/_static/logo2.svg" width="48"/><br>Matplotlib &nbsp;&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/><br>Seaborn &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br>VS Code &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/><br>Jupyter &nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="48"/><br>AWS
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" title="Excel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="48"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="48"/>
+  <img src="https://matplotlib.org/stable/_static/logo2.svg" title="Matplotlib" width="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" title="Seaborn" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" width="48"/>
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS"/>
 </p>
 
 ---
