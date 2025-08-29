@@ -1,35 +1,158 @@
-## Hi there 👋
+<!---
+  Advanced GitHub Profile README for Vivek Singh
+  - Includes skills icons, project sections, GitHub stats, trophies, and contact info
+  - Replace placeholders (email, resume link) as needed
+-->
 
-<h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">A passionate Data Analyst from India.</h3>
+# Hi there 👋 I'm Vivek Singh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=viveksingh052&label=Profile%20views&color=0e75b6&style=flat" alt="viveksingh052" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viveksingh052" alt="viveksingh052" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on **Data Analyst Projects**
-
-- 🤝 I’m looking for help with **Data Science**
-
-- 💬 Ask me about **Data Analysis**
-
-- 📫 How to reach me **vivekvs2927@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hfJhPqGNYIsk3EeEwcuDK7DsgoLA36Mo/view?usp=drive_link](https://drive.google.com/file/d/1hfJhPqGNYIsk3EeEwcuDK7DsgoLA36Mo/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vivek singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek singh" height="30" width="40" /></a>
-<a href="https://fb.com/vivek singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vivek singh" height="30" width="40" /></a>
-<a href="https://instagram.com/kingston_upon_thames_52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kingston_upon_thames_52" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vivek0052" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivek0052" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/assets/Hi.gif" alt="hi" width="120" />
+  <br/>
+  <strong>A passionate Data Analyst from India · Machine Learning learner · Open to collaboration</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/viveksingh052"><img src="https://img.shields.io/badge/GitHub-viveksingh052-181717?style=for-the-badge&logo=github" alt="github"/></a>
+  <a href="mailto:vivekvs2927@gmail.com"><img src="https://img.shields.io/badge/Email-vivekvs2927@gmail.com-red?style=for-the-badge&logo=gmail" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/vivek-singh"><img src="https://img.shields.io/badge/LinkedIn-Vivek_Singh-0A66C2?style=for-the-badge&logo=linkedin" alt="linkedin"/></a>
+  <a href="https://drive.google.com/file/d/1hfJhPqGNYIsk3EeEwcuDK7DsgoLA36Mo/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-PDF-0f172a?style=for-the-badge&logo=adobe" alt="resume"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viveksingh052&show_icons=true&locale=en&layout=compact" alt="viveksingh052" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viveksingh052&show_icons=true&locale=en" alt="viveksingh052" /></p>
+## 👨‍💻 About Me
+
+* 🔭 I’m currently learning **Machine Learning** and improving my Data Analysis & visualization skills.
+* 🌱 I’m focused on projects using **Python, SQL, Power BI, Tableau, and AWS**.
+* 👯 I’m happy to collaborate on **Data Analyst / Visualization / ETL** projects.
+* 💬 Ask me about **Pandas, NumPy, data cleaning, exploratory data analysis, visualisations, and dashboards**.
+* 📫 How to reach me: **[vivekvs2927@gmail.com](mailto:vivekvs2927@gmail.com)**
+* 📄 Resume: [View PDF](https://drive.google.com/file/d/1hfJhPqGNYIsk3EeEwcuDK7DsgoLA36Mo/view?usp=drive_link)
+
+## 🔭 Quick Stats
+
+<p align="left">
+  <img align="left" src="https://komarev.com/ghpvc/?username=viveksingh052&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=viveksingh052&show_icons=true&theme=radical" alt="github stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viveksingh052&layout=compact&theme=radical" alt="top languages" />
+</p>
+
+---
+
+## 🛠️ Tools & Technologies
+
+Below is a compact visual of the technologies I use regularly. Replace links with your own resources if you prefer different images.
+
+<table>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48"/><br/>Python</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="48"/><br/>NumPy</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="48"/><br/>Pandas</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="48"/><br/>Matplotlib</td>
+    <td><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="48"/><br/>Seaborn</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="48"/><br/>SQL/SQLite</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="48"/><br/>MySQL</td>
+    <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="48"/><br/>MSSQL</td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/excel.svg" alt="Excel" width="48"/><br/>Excel</td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="Power BI" width="48"/><br/>Power BI</td>
+  </tr>
+  <tr align="center">
+    <td><img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="48"/><br/>Tableau</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="48"/><br/>Streamlit</td>
+    <td><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="48"/><br/>Selenium</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" width="48"/><br/>VS Code</td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="48"/><br/>Jupyter</td>
+  </tr>
+  <tr align="center">
+    <td colspan="2"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="120"/><br/>AWS</td>
+    <td colspan="3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48"/><br/>Git</td>
+  </tr>
+</table>
+
+---
+
+## 📂 Selected Projects
+
+> Short project descriptions and links help recruiters quickly understand impact.
+
+1. **Sales Dashboard & Forecasting** — *Power BI + Python*
+
+   * Cleaned sales data, created interactive dashboards (filters, drill-through), added ARIMA forecasting for monthly revenue.
+   * *Skills:* Power BI, Pandas, SQL, matplotlib.
+   * *Repo/Link:* Add link to your project or dashboard here.
+
+2. **Customer Segmentation** — *KMeans + Tableau*
+
+   * Performed RFM analysis, clustered customers for targeted marketing, built Tableau dashboards for stakeholder presentation.
+   * *Skills:* Python, NumPy, Pandas, Tableau, SQL.
+
+3. **Web-scraped Dataset & EDA App** — *Selenium + Streamlit*
+
+   * Scraped product reviews, cleaned text, provided EDA and sentiment summary via Streamlit app.
+   * *Skills:* Selenium, BeautifulSoup, Pandas, Streamlit.
+
+> Add links to these repositories or live apps (Streamlit Cloud / Heroku / AWS) for maximum impact.
+
+---
+
+## 📊 Dashboards & Notebooks
+
+* **Streamlit demo:** Add your live app URL.
+* **Tableau Public:** Add link to your Tableau Public workbook(s).
+* **Jupyter Notebooks:** Link to sample notebooks showcasing EDA, modeling, or SQL pipelines.
+
+---
+
+## 📈 GitHub Activity & Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viveksingh052&theme=radical" alt="trophies"/></a> </p>
+
+---
+
+## 🔧 How to make this README even better (tips)
+
+* Add links to live dashboards (Power BI Service, Tableau Public, Streamlit).
+* Host sample datasets in a `data/` folder and notebooks in `notebooks/` for recruiters to run.
+* Add `requirements.txt` or `environment.yml` for reproducibility.
+* Add badges for your most used repos (stars, forks) and for CI if any.
+
+---
+
+## 🧰 Local badges & quick embed snippets
+
+You can embed these small badges in the top of your README to highlight the stack:
+
+```
+[![Python](https://img.shields.io/badge/Python-3.10-blue?style=flat&logo=python)]
+[![Pandas](https://img.shields.io/badge/Pandas-data-blue?style=flat&logo=pandas)]
+[![MySQL](https://img.shields.io/badge/MySQL-db-4479A1?style=flat&logo=mysql)]
+[![PowerBI](https://img.shields.io/badge/PowerBI-dashboard-yellow?style=flat&logo=power-bi)]
+[![AWS](https://img.shields.io/badge/AWS-cloud-orange?style=flat&logo=amazon-aws)]
+```
+
+---
+
+## 📬 Connect with me
+
+<p align="left">
+  <a href="mailto:vivekvs2927@gmail.com"><img src="https://img.shields.io/badge/Email-vivekvs2927@gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/vivek-singh"><img src="https://img.shields.io/badge/LinkedIn-Vivek_Singh-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://leetcode.com/vivek0052"><img src="https://img.shields.io/badge/LeetCode-vivek0052-FFA116?style=for-the-badge&logo=leetcode" /></a>
+</p>
+
+---
+
+## ⚙️ Customization (what I changed and where to edit)
+
+* Replace the name, headline, email, and resume link at the top.
+* Update the `Tools & Technologies` table to add or remove icons. Use icons from `devicons` or `worldvectorlogo` for consistency.
+* Update `Projects` with repo links and short impact metrics (e.g., "Reduced ETL time by 40%", "Improved conversion by 12%").
+
+---
+
+*Made with ❤️ — feel free to ask me to personalize this README further, add animation, or generate SVG icons for your projects.*
