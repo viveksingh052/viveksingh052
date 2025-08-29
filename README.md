@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">Aspiring Data Analyst | Python • SQL • Power BI • Excel • Data Visualization</h3>
+<h3 align="center">Data Analyst | Excel | SQL | Power BI | Tableau< | Python/h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80">
@@ -7,7 +7,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me  
 - 📊 Learning **Data Analytics & Data Visualization**  
 - 🐍 Exploring **Python, SQL, Excel, and Power BI**  
 - 🚀 Currently practicing **Python & Data Analysis libraries**  
@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td align="center" width="96"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48"/><br>Excel</td>
-    <td align="center" width="96"><img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="48"/><br>SQL</td>
+    <td align="center" width="96"><img src="https://i.ibb.co/0M7p8Gf/sql-logo.png" width="48"/><br>SQL</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
     <td align="center" width="96"><img src="https://img.icons8.com/color/48/power-bi.png" width="48"/><br>Power BI</td>
     <td align="center" width="96"><img src="https://img.icons8.com/color/48/tableau-software.png" width="48"/><br>Tableau</td>
@@ -44,7 +44,7 @@
     <td align="center" width="96"><img src="https://img.icons8.com/color/48/amazon-web-services.png" width="48"/><br>AWS</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://img.icons8.com/color/48/microsoft.png" width="48"/><br>SSMS</td>
+    <td align="center" width="96"><img src="https://i.ibb.co/kQ2Q9rk/ssms-logo.png" width="48"/><br>SSMS</td>
   </tr>
 </table>
 
@@ -69,3 +69,4 @@
   <a href="mailto:vivekvs2927@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" width="40" height="40" /></a>
   <a href="https://github.com/viveksingh052"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /></a>
 </p>
+
