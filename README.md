@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shobhit Singh</h1>
-<h3 align="center">Aspiring Data Analyst | BCA Student | Python Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Vivek Singh</h1>
+<h3 align="center">Aspiring Data Analyst | Python Enthusiast</h3>
 
 ---
 
 ## 🙋‍♂️ About Me
-- 🎓 Pursuing **Bachelor of Computer Applications (BCA)**  
 - 📊 Learning **Data Analytics & Data Visualization**  
 - 🐍 Exploring **Python, SQL, Excel, and Power BI**  
 - 🚀 Currently practicing **Python & Data Analysis libraries**  
@@ -87,16 +86,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShobhitSingh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekSingh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShobhitSingh&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VivekSingh&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shobhit-singh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
-  <a href="mailto:shobhitsingh@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/vivek-singh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
+  <a href="mailto:viveksingh@example.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" /></a>
 </p>
