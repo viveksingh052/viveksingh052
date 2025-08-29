@@ -1,50 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">Data Analyst | Python & SQL Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst | Python Enthusiast</h3>
 
 ---
 
-## 📝 Summary
-Data Analyst skilled in **SQL (MySQL)**, **Python (Pandas, NumPy, Matplotlib, Seaborn, Streamlit)**, **Excel**, and **Power BI**.  
-Experienced in **data cleaning, EDA, ETL**, and building interactive dashboards to deliver actionable business insights.
+## 🙋‍♂️ About Me
+- 📊 Learning **Data Analytics & Data Visualization**  
+- 🐍 Exploring **Python, SQL, Excel, and Power BI**  
+- 🚀 Currently practicing **Python & Data Analysis libraries**  
+- ⚽ Love to play volleyball
 
----
 
-## 💼 Experience
-**Python Intern** — *Medius Technologies Pvt Ltd, Mumbai*  
-📅 Jan 2025 – Mar 2025  
-
-- Automated tasks with Python scripts and data extraction.  
-- Collaborated on projects using **Git** for version control and tracking.  
-- Applied Python fundamentals to real-world automation workflows.  
-
----
-
-## 📂 Projects
-### 🌦 Weather Analysis *(Excel, SQL, Power BI, Git)* — **June 2025 – Present (Ongoing)**  
-- Processed multi-city weather data to uncover seasonal patterns & correlations.  
-- Built **Power BI dashboard** with heatmaps, scatter plots, and time-series visuals.  
-- Highlighted extreme weather events with targeted analytics.  
-
-### 🎬 Movie Rental Analytics *(Excel, SQL, Power BI, Git)* — **July 2025 – Present (Ongoing)**  
-- Analyzed customer behavior, film inventory, and staff performance using **Sakila DB**.  
-- Created Power BI dashboard for sales trends, customer segmentation, and film KPIs.  
-- Generated insights for **inventory optimization** and **marketing strategies**.  
-
-### 🏅 Sports Analytics *(Excel, SQL, Power BI, Git)* — **Aug 2025 – Present (Ongoing)**  
-- Explored Olympic data to track **participation, medals, and hosting trends**.  
-- Designed dashboards for medal distribution, sport popularity, and gender stats.  
-- Identified **dominant nations & emerging sports** for future planning.  
-
----
-
-## 🛠️ Technical Skills
-**Databases:** MySQL  
-**BI Tools:** Excel (Pivot Tables, Power Query, Charts), Power BI (DAX, Power Query, Data Modeling)  
-**Programming:** Python (NumPy, Pandas, Matplotlib, Seaborn, Streamlit)  
-**Other Tools:** Git, GitHub, VS Code, Jupyter Notebook  
-**Core Skills:** Data Cleaning, ETL, Data Modeling, EDA, Dashboard Development, Data Visualization  
-
----
 
 ## ⚙️ Tools & Technologies (Logos)
 
