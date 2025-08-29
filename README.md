@@ -7,7 +7,7 @@
 - 📊 Learning **Data Analytics & Data Visualization**  
 - 🐍 Exploring **Python, SQL, Excel, and Power BI**  
 - 🚀 Currently practicing **Python & Data Analysis libraries**  
-- ⚽ Love to play football daily in the evening  
+- ⚽ Love to play volleyball
 
 ---
 
