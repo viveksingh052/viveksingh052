@@ -67,13 +67,6 @@
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viveksingh052&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
-
----
-
 ## 🤝 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/viveksingh52/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
