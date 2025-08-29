@@ -21,13 +21,6 @@
 
 ## ⚙️ Tools & Technologies  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,vscode,github,aws" />
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" />
-  <img src="https://img.icons8.com/color/48/power-bi.png" />
-  <img src="https://img.icons8.com/color/48/tableau-software.png" />
-</p>
-
 <table>
   <tr>
     <td align="center" width="96"><img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="48"/><br>Excel</td>
@@ -48,7 +41,7 @@
     <td align="center" width="96"><img src="https://img.icons8.com/color/48/selenium-test-automation.png" width="48"/><br>Selenium</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br>VS Code</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/><br>Jupyter</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48"/><br>AWS</td>
+    <td align="center" width="96"><img src="https://img.icons8.com/color/48/amazon-web-services.png" width="48"/><br>AWS</td>
   </tr>
 </table>
 
