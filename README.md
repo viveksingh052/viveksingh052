@@ -1,6 +1,6 @@
 <!---
   Advanced GitHub Profile README for Vivek Singh
-  - Includes skills icons, project sections, GitHub stats, trophies, and contact info
+  - Includes skills icons, GitHub stats, and contact info
   - Replace placeholders (email, resume link) as needed
 -->
 
@@ -76,50 +76,27 @@ Below is a compact visual of the technologies I use regularly. Replace links wit
 
 ---
 
-## 📂 Selected Projects
+## 💡 Skills
 
-> Short project descriptions and links help recruiters quickly understand impact.
+Here are my core **Data Analytics & Development Skills** with logos:
 
-1. **Sales Dashboard & Forecasting** — *Power BI + Python*
-
-   * Cleaned sales data, created interactive dashboards (filters, drill-through), added ARIMA forecasting for monthly revenue.
-   * *Skills:* Power BI, Pandas, SQL, matplotlib.
-   * *Repo/Link:* Add link to your project or dashboard here.
-
-2. **Customer Segmentation** — *KMeans + Tableau*
-
-   * Performed RFM analysis, clustered customers for targeted marketing, built Tableau dashboards for stakeholder presentation.
-   * *Skills:* Python, NumPy, Pandas, Tableau, SQL.
-
-3. **Web-scraped Dataset & EDA App** — *Selenium + Streamlit*
-
-   * Scraped product reviews, cleaned text, provided EDA and sentiment summary via Streamlit app.
-   * *Skills:* Selenium, BeautifulSoup, Pandas, Streamlit.
-
-> Add links to these repositories or live apps (Streamlit Cloud / Heroku / AWS) for maximum impact.
-
----
-
-## 📊 Dashboards & Notebooks
-
-* **Streamlit demo:** Add your live app URL.
-* **Tableau Public:** Add link to your Tableau Public workbook(s).
-* **Jupyter Notebooks:** Link to sample notebooks showcasing EDA, modeling, or SQL pipelines.
-
----
-
-## 📈 GitHub Activity & Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viveksingh052&theme=radical" alt="trophies"/></a> </p>
-
----
-
-## 🔧 How to make this README even better (tips)
-
-* Add links to live dashboards (Power BI Service, Tableau Public, Streamlit).
-* Host sample datasets in a `data/` folder and notebooks in `notebooks/` for recruiters to run.
-* Add `requirements.txt` or `environment.yml` for reproducibility.
-* Add badges for your most used repos (stars, forks) and for CI if any.
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/excel.svg" alt="Excel" width="60" height="60"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi-1.svg" alt="Power BI" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="60" height="60"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VSCode" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="90" height="60"/>
+</p>
 
 ---
 
@@ -144,14 +121,6 @@ You can embed these small badges in the top of your README to highlight the stac
   <a href="https://www.linkedin.com/in/vivek-singh"><img src="https://img.shields.io/badge/LinkedIn-Vivek_Singh-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://leetcode.com/vivek0052"><img src="https://img.shields.io/badge/LeetCode-vivek0052-FFA116?style=for-the-badge&logo=leetcode" /></a>
 </p>
-
----
-
-## ⚙️ Customization (what I changed and where to edit)
-
-* Replace the name, headline, email, and resume link at the top.
-* Update the `Tools & Technologies` table to add or remove icons. Use icons from `devicons` or `worldvectorlogo` for consistency.
-* Update `Projects` with repo links and short impact metrics (e.g., "Reduced ETL time by 40%", "Improved conversion by 12%").
 
 ---
 
