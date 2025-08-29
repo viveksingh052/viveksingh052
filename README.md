@@ -27,16 +27,16 @@
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br>MySQL</td>
     <td align="center" width="96"><img src="https://img.icons8.com/color/48/power-bi.png" width="48"/><br>Power BI</td>
     <td align="center" width="96"><img src="https://img.icons8.com/color/48/tableau-software.png" width="48"/><br>Tableau</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br>Python</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><br>Python</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/><br>NumPy</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/><br>Pandas</td>
     <td align="center" width="96"><img src="https://matplotlib.org/stable/_static/logo2.svg" width="48"/><br>Matplotlib</td>
     <td align="center" width="96"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48"/><br>Seaborn</td>
+    <td align="center" width="96"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48"/><br>Streamlit</td>
   </tr>
   <tr>
-    <td align="center" width="96"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="48"/><br>Streamlit</td>
     <td align="center" width="96"><img src="https://img.icons8.com/color/48/selenium-test-automation.png" width="48"/><br>Selenium</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br>VS Code</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/><br>Jupyter</td>
