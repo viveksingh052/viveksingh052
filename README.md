@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">Data Analyst | Excel | Power BI | Tableau | Python</h3>
+<h3 align="center">Data Analyst | Excel | SQL | Power BI | Tableau | Python</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80">
-</p>
+https://github.com/user-attachments/assets/e1aaa805-4b76-4a09-a330-fbdbefd15e93
+
+
 
 ---
 
