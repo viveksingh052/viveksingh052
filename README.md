@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
-<h3 align="center">Data Analyst | Excel | Power BI | Tableau | Python</h3>
+<h3 align="center">Data Analyst | Excel | SQL | Power BI | Tableau | Python</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80">
@@ -59,4 +59,6 @@
 
 ## 🤝 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/viveksingh52/"><img src="https://cdn.jsdeli
+  <a href="https://www.linkedin.com/in/viveksingh52/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
+  <a href="mailto:vivekvs2927@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" width="40" height="40" /></a>
+</p>
