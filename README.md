@@ -51,9 +51,18 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksingh052&theme=radical" height="160" />
 </p>
 
-<!-- Commit-only graph -->
+<!-- Commit-only activity graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksingh052&custom_title=Commit%20Activity&hide=issues,prs&theme=react-dark" alt="GitHub Commit Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksingh052
+  &custom_title=Commit%20Activity
+  &hide=issues,prs
+  &area=true
+  &line=ff6ec7
+  &point=ffffff
+  &title_color=ff6ec7
+  &color=00eaff
+  &bg_color=0d1117
+  &y_axis_label=Number%20of%20Commits" alt="GitHub Commit Graph" />
 </p>
 
 ---
