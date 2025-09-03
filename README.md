@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Singh</h1>
 <h3 align="center">Data Analyst | Excel | SQL | Power BI | Tableau | Python</h3>
 
-
-
-
 ---
 
 ## 🙋‍♂️ About Me  
@@ -47,15 +44,16 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Stats & Commit Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viveksingh052&show_icons=true&theme=radical" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksingh052&theme=radical" height="160" />
 </p>
 
+<!-- Commit-only graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksingh052&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksingh052&custom_title=Commit%20Activity&hide=issues,prs&theme=react-dark" alt="GitHub Commit Graph" />
 </p>
 
 ---
