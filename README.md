@@ -1,18 +1,33 @@
 <h1 align="center">⚡ Vivek Singh ⚡</h1>
-<h3 align="center">Turning data into insights 🚀</h3>
+<h3 align="center">Turning Data into Insights 🚀 | Aspiring Data Analyst</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=SQL+Expert;Python+Developer;Power+BI+%26+Tableau;LeetCode+SQL+50+🔥)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;LeetCode+SQL+50+Challenge+🔥;Lifelong+Learner+📊)](https://git.io/typing-svg)
 
 ---
 
-### 🎨 Tech Tools  
+## 👨‍💻 About Me
+- 📊 Data Analyst skilled in **SQL, Python, Excel, Power BI, and Tableau**
+- 🔍 Passionate about **data cleaning, visualization, and analysis**
+- 🏆 Currently solving **LeetCode SQL 50 (Day XX/50)**  
+- 🌱 Exploring **advanced analytics & data storytelling**
+- 🎯 Goal: Transform raw data into meaningful insights
+
+---
+
+## 🎨 Tech Tools  
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-FFB900?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-FF6F61?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-45b8d8?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---
 
+## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=viveksingh052&show_icons=true&theme=radical&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksingh052&theme=neon-dark&hide_border=true" height="160"/>
@@ -20,6 +35,18 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksingh052&custom_title=🚀%20Commit%20Journey%20🚀&hide=issues,prs&area=true&line=ff007f&point=ffffff&title_color=ff007f&color=ff007f&bg_color=000000"/>
+</p>
+
+---
+
+## 🌐 Connect with Me  
+<p align="left">
+<a href="https://www.linkedin.com/in/viveksingh052/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:viveksingh052@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ---
