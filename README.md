@@ -12,7 +12,6 @@
 ## 👨‍💻 About Me
 - 📊 Data Analyst skilled in **SQL, Python, Excel, Power BI, and Tableau**
 - 🔍 Passionate about **data cleaning, visualization, and analysis**
-- 🏆 Currently solving **LeetCode SQL 50 (Day XX/50)**  
 - 🌱 Exploring **advanced analytics & data storytelling**
 - 🎯 Goal: Transform raw data into meaningful insights
 
