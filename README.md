@@ -54,8 +54,10 @@
 <a href="mailto:viveksingh052@gmail.com" target="blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<a href="https://leetcode.com/u/Vivek0052/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 </p>
-
 
 ---
 
