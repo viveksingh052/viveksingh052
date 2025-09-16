@@ -1,7 +1,9 @@
 <h1 align="center">⚡ Vivek Singh ⚡</h1>
 <h3 align="center">Turning Data into Insights 🚀 | Aspiring Data Analyst</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;LeetCode+SQL+50+Challenge+🔥;Lifelong+Learner+📊)](https://git.io/typing-svg)
+<!-- Typing Header -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00eaff&center=true&vCenter=true&width=550&lines=Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Python;LeetCode+SQL+50+Challenge+🔥;Lifelong+Learner+📊)](https://git.io/typing-svg)
+
 
 ---
 
