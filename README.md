@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJp0pA71I0t4I51J/giphy.gif" width="45px"> Hi, I'm <span style="color:#66ff66; font-weight: bold;">Vivek Singh</span>
+  <img src="https://media.giphy.com/media/l0HlCgA2E7K6z5BTO/giphy.gif" width="45px"> Hi, I'm <span style="color:#72D5FF; font-weight: bold;">Vivek Singh</span>
 </h1>
 
 <h3 align="center">✨ Data Analyst | Excel | SQL | Power BI | Tableau | Python ✨</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viveksingh052&label=Profile%20Views&color=66ff66&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=viveksingh052&label=Profile%20Views&color=72d5ff&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/viveksingh052?label=Followers&style=social" alt="Followers" />
 </p>
 
@@ -75,16 +75,16 @@
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viveksingh052&show_icons=true&theme=dark&hide_border=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksingh052&theme=dark&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=viveksingh052&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksingh052&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksingh052&custom_title=✨%20Commit%20Activity%20✨&hide=issues,prs&area=true&line=66ff66&point=ffffff&title_color=66ff66&color=66ff66&bg_color=191919&y_axis_label=Commits%20Count" alt="Commit Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksingh052&custom_title=✨%20Commit%20Activity%20✨&hide=issues,prs&area=true&line=ff6ec7&point=ffffff&title_color=ff6ec7&color=ff6ec7&bg_color=0d1117&y_axis_label=Commits%20Count" alt="Commit Activity Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=viveksingh052&theme=dracula&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=viveksingh052&theme=tokyonight&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
