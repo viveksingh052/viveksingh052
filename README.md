@@ -3,11 +3,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00eaff&center=true&vCenter=true&width=550&lines=Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Python;LeetCode+SQL+50+Challenge+🔥;Lifelong+Learner+📊)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00eaff&center=true&vCenter=true&width=550&lines=Data+Analyst;Excel+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+Python;Lifelong+Learner+📊)](https://git.io/typing-svg)
 
 </div>
 
 ---
+
 
 ## 👨‍💻 About Me
 - 📊 Data Analyst skilled in **SQL, Python, Excel, Power BI, and Tableau**
