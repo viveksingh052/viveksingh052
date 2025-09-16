@@ -58,7 +58,7 @@
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksingh052&custom_title=✨%20Commit%20Activity%20✨&hide=issues,prs&area=true&line=ff6ec7&point=ffffff&title_color=ff6ec7&color=00eaff&bg_color=0d1117&y_axis_label=Commits%20Count"/>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksingh052&custom_title=✨%20Commit%20Activity%20✨&hide=issues,prs&area=true&line=00eaff&point=ffffff&title_color=00eaff&color=00eaff&bg_color=0d1117&y_axis_label=Commits%20Count"/>  
 </p>  
 
 ---
